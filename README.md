@@ -20,6 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovannasm&show_icons=true&locale=en&layout=compact" alt="giovannasm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giovannasm&show_icons=true&locale=en" alt="giovannasm" /></p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
