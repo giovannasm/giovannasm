@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giovanna</h1>
-<h3 align="center">A passionate full stack developer from Brazil (coming from journalism!). I love communicating with words, images or code!</h3>
+<h3 align="center">A passionate full stack developer (coming from journalism!). I love communicating with words, images or code!</h3>
 
 - 💬 Ask me about **Ruby on Rails, JS, HTML5, CSS3, SCSS**
 
