@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **giovannasm@gmail.com**
 
-- 📄 Know about my experiences [https://bityli.com/vkSnVDF](https://bityli.com/vkSnVDF)
+- 📄 Know about my experiences, get my resume: https://bityli.com/bpXKAqt
 
 - ⚡ Fun fact: **I love sumo! 立合い Ask me about it!**
 
