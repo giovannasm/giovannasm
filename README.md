@@ -1,15 +1,19 @@
 <h1 align="center">Hi 🤓, I'm Giovanna</h1>
 <h3 align="center">A passionate full stack developer (coming from journalism!). I love communicating with words, images or code!</h3>
 
+- 👨‍💻 All of my projects are available at [troopl.com/giovannasm](troopl.com/giovannasm)
+
 - 💬 Ask me about **Ruby, Ruby on Rails, JS, HTML5, CSS3, SCSS**
 
 - 📫 How to reach me **giovannasm@gmail.com**
 
-- ⚡ Fun fact **I love sumo! 立合い** Ask me about it!
+- 📄 Know about my experiences [https://bityli.com/vkSnVDF](https://bityli.com/vkSnVDF)
+
+- ⚡ Fun fact: **I love sumo! 立合い Ask me about it!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/giovannasm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giovanna-saliba-montemurro-3395b946" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/giovannasm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giovannasm" height="30" width="40" /></a>
 <a href="https://fb.com/giovannasm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giovannasm" height="30" width="40" /></a>
 <a href="https://medium.com/@giovannasm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@giovannasm" height="30" width="40" /></a>
 </p>
