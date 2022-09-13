@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤓, I'm Giovanna</h1>
 <h3 align="center">A passionate full stack developer (coming from journalism!). I love communicating with words, images or code!</h3>
 
-- 👨‍💻 All of my projects are available at [troopl.com/giovannasm](troopl.com/giovannasm)
+- 👨‍💻 All of my projects are available at https://troopl.com/giovannasm
 
 - 💬 Ask me about **Ruby, Ruby on Rails, JS, HTML5, CSS3, SCSS**
 
