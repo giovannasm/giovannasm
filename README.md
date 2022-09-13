@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **giovannasm@gmail.com**
 
-- 📄 Know about my experiences, get my resume: https://rb.gy/m6n0nd
+- 📄 Know about my experiences, get my resume: https://rb.gy/nvbl0o
 
 - ⚡ Fun fact: **I love sumo! 立合い Ask me about it!**
 
