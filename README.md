@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at https://troopl.com/giovannasm
 
-- 💬 Ask me about **Ruby, Ruby on Rails, JS, Nest.js**
+- 💬 Ask me about **Ruby, Ruby on Rails, JS, Nest.js, ReactJS**
 
 - 📫 How to reach me **giovannasm@gmail.com**
 
