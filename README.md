@@ -3,11 +3,11 @@
 
 - 👨‍💻 All of my projects are available at https://troopl.com/giovannasm
 
-- 💬 Ask me about **Ruby, Ruby on Rails, JS, Nest.js, ReactJS**
+- 💬 Ask me about **Ruby, Ruby on Rails, JS, Nest.js, ReactJS, Vue.js**
 
 - 📫 How to reach me **giovannasm@gmail.com**
 
-- 📄 Know about my experiences, get my resume: https://rb.gy/8yyzen (Portuguese) / https://www.linkedin.com/in/giovannasm/ (English)
+- 📄 Know about my experiences, get my resume: https://www.linkedin.com/in/giovannasm/
 
 - ⚡ Fun fact: **I love sumo! 立合い Ask me about it!**
 
