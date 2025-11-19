@@ -1,11 +1,5 @@
 <h1 align="center">Hi 🤓, I'm Giovanna</h1>
-<h3 align="center">A passionate full stack developer (coming from journalism!). I love communicating with words, images or code!</h3>
-
-- 👨‍💻 All of my projects are available at https://troopl.com/giovannasm
-
-- 💬 Ask me about **Ruby, Ruby on Rails, JS, Nest.js, ReactJS, Vue.js**
-
-- 📫 How to reach me **giovannasm@gmail.com**
+<h3 align="center">A passionate software engineer (coming from journalism!). I love communicating with words, images or code!</h3>
 
 - 📄 Know about my experiences, get my resume: https://www.linkedin.com/in/giovannasm/
 
