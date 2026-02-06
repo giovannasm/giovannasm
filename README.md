@@ -9,10 +9,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/giovannasm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giovannasm" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovannasm&show_icons=true&locale=en&layout=compact" alt="giovannasm" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giovannasm&show_icons=true&locale=en" alt="giovannasm" /></p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
